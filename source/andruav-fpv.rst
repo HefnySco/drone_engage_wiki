@@ -46,6 +46,18 @@ Andruav FPV Capabilities
     
 
 |
+.. warning::
+    If you have to install your Drone mobile vertically you might find it difficult to view video on GCS mobile.
+    you can use the bellow settings in GCS mobile to adjust your view.
+
+
+.. image:: ./images/gcs_landscape.jpg
+   :height: 400px
+   :align: center
+   :alt: FPV Vertical & Horizontal
+
+
+|
 
 Andruav FPV on WebClient
 ========================
