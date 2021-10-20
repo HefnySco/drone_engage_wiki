@@ -21,8 +21,8 @@ master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
-project = u'Andruav Project'
-copyright = u'2020, Andruav.com'
+project = u'Drone Engage System'
+copyright = u'2021, DroneEngage.com'
 author = u'Mohammad Said Hefny'
 
 
@@ -37,8 +37,11 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.imgmath',
     'sphinx.ext.ifconfig',
+    'sphinx.ext.graphviz', #display graphs
+    'sphinx_code_tabs', # display multiple languages in tabs e.g. code in c , python
     #'recommonmark',
-    #'sphinxcontrib.youtube' #For youtube embedding
+    'sphinxcontrib.youtube', #For youtube embedding
+    'sphinx_copybutton', # https://github.com/executablebooks/sphinx-copybutton
     #'sphinxcontrib.vimeo', #For vimeo embedding
 ]
 # Add any paths that contain templates here, relative to this directory.
@@ -101,20 +104,20 @@ master_doc = 'index'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 # DO NOT CHANGE. This is used by theme in "Edit on Github" links
-html_short_title = 'Andruav'
+html_short_title = 'D.E.'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = './images/andruav.png'
+html_logo = './images/manual_logo1.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = './images/andruav.ico'
+html_favicon = './images/de.ico'
 
 
 html_additional_pages = {
     'eula': 'eula.html',
     'eula_team': 'eula_team.html',
-    'andruavweb': 'andruavweb.html',
+    'droneengage': 'droneengage.html',
 }
