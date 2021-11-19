@@ -1,8 +1,8 @@
 .. _de-tx-block:
 
-===================
+========================
 Drone-Engage RC Blocking
-===================
+========================
 
 
 Assume you are in the field with your TX in your hands. Your drone is flying using Andruav. Your friend is using :ref:`de-web-client` and controls your drone from else where.

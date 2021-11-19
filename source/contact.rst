@@ -1,4 +1,4 @@
-.. contribute:
+.. _contact:
 
 ==========
 CONTACT US

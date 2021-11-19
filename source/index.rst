@@ -17,7 +17,8 @@ Welcome to Drone Engage Project Website
    Drone-Engage Telemetry </de-telemetry>
    Drone-Engage Advanced Features </de-advanced>
    Using Drone-Engage with SITL </de-simulators>
-     
+   Use Cases </de-use-cases>
+
    FAQ </de-faq> 
    Glossary </de-glossary> 
 

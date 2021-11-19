@@ -41,9 +41,11 @@ Execute the following commands:
 .. code-block:: bh
 
    unzip ./drone_engane_RPI-Zero_v1.0.1.zip
+
 |
+
 It will extract a folder and a file script.
-|
+
 
 .. code-block:: bh
 
