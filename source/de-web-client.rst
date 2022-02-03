@@ -8,7 +8,7 @@ Drone-Engage Web Client
 Drone-Engage Web Client is website where you can track and control your drone from it.
 
 
-Drone-Engage Web-Client URL: `https://droneengage.com:8021/webclient.html <https://andruav.com:8021/webclient.html>`_
+Drone-Engage Web-Client URL: `https://droneengage.com:8021/webclient.html <https://droneengage.com:8021/webclient.html>`_
 
 
 
@@ -26,3 +26,6 @@ Main Features
 #. Ability to connect GamePad directly to web and fly drone smoothly.
 
 #. Ability to connect web client to QGroundControl or Mission Planner using :ref:`de-web-plugin` 
+
+
+.. youtube:: https://www.youtube.com/watch?v=YwEw_YSFVEo

@@ -31,7 +31,7 @@ We can easily do that by editing /boot/cmdline.txt and add **isolcpus=1,2**
 
 .. code-block:: bh
 
-   console=tty1 root=PARTUUID=414e6dda-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait  isolcpus=1,2
+   console=tty1 root=PARTUUID=414e6dda-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait  isolcpus=1
 
 
 .. image:: ./images/isolcpus.png
@@ -44,7 +44,7 @@ Then we can execute Ardupilot with the following parameters:
 
 .. code-block:: bh
     
-    /home/pi/arducopter -A  udp:192.168.1.144:14550:bcast  -C /dev/serial0 -c 1,2
+    /home/pi/arducopter -A  udp:192.168.1.144:14550:bcast  -C /dev/serial0 -c 1
 
 In this case ardupilot will use core 1,2 only, and no other process will use share cores with it. This way helps to ensure stability.
 

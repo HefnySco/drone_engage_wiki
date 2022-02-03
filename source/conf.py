@@ -22,7 +22,7 @@ master_doc = 'index'
 # -- Project information -----------------------------------------------------
 
 project = u'Drone Engage System'
-copyright = u'2021, DroneEngage.com'
+copyright = u'2022, DroneEngage.com'
 author = u'Mohammad Said Hefny'
 
 

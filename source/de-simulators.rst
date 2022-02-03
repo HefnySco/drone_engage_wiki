@@ -13,7 +13,7 @@ If you want more real action then maybe you can try `Webots SITL <https://ardupi
 
 
 
-Please check `Andruav SITL <https://andruav.com/andruav-web-plugin.html>`_ 
+Please check :ref:`de-web-plugin`
 
 
 

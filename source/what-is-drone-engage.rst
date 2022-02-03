@@ -5,8 +5,7 @@ What is Drone-Engage ?
 ======================
 
 
-Drone-Engage (D.E.) is a distibuted system that allows monitoring & controlling drones via Internet. D.E. aims in this current version to replace the current 
-Andruav-App and provides a Linux-based alternative for Android mobiles.
+Drone-Engage (D.E.) is a distibuted system that allows monitoring & controlling drones via Internet. Drone-Engage objective is to provide a Linux-based alternative for Android mobiles.
 
 
 .. youtube:: https://www.youtube.com/watch?v=F9b4dXLRLjg
@@ -20,10 +19,6 @@ Now you can use Raspberry-pi boards to run Drone-Engage companion computer softw
         :alt: Drone-Engage on RPI-Zero connected to OBAL board.
 
 |
-
-Drone-Control companion computer is still compatible with Andruav-App, and is relaying on Andruav platform. 
-
-
 
 
 .. tip::

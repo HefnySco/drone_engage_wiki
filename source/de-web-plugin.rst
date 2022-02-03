@@ -1,15 +1,13 @@
 .. _de-web-plugin:
 
 ==================
-Andruav Web Plugin
+Mavlink Web Plugin
 ==================
 
 
 Web Plugin streams telemetry data from :ref:`de-web-client` to GCS apps such as Mission Planner, QGround Control or similar GCS applications to your vehicle via Andruav.
 
-You can connect directly from :ref:`de-web-client` and no need for :ref:`Andruav GCS Mobile App <de-gcs-telemetry>` to stream telemetry data.
-
-This plugin can run on Windows, MacOS & Linux.
+You can connect directly from :ref:`de-web-client`. This plugin can run on Windows, MacOS & Linux.
 
 
 .. youtube:: https://www.youtube.com/watch?v=mUCbhzvmVcI
@@ -21,12 +19,12 @@ Steps Description
 
 1. Install `nodejs <https://nodejs.org/en/download/>`_ on your machine, it works on Linux, Windows & Mac.
 
-2. Install `Webplugin App <https://www.npmjs.com/package/andruavwebplugin>`_ from command prompt using command.
+2. Install `mavlinkwebplugin App <https://www.npmjs.com/package/mavlinkwebplugin>`_ from command prompt using command.
 
 
 .. code-block:: bash
 
-    $npm install andruavwebpluging -g
+    $npm install mavlinkwebplugin -g
 
 
 
@@ -34,19 +32,19 @@ Steps Description
 
 .. |pic1| image:: ./images/howtodownload.png
    :width: 35 %
-   :alt: How to download andruavwebplugin
+   :alt: How to download mavlinkwebplugin
 
 .. |pic2| image:: ./images/howtorun.png
    :width: 35 %
-   :alt: How to run andruavwebplugin
+   :alt: How to run mavlinkwebplugin
 
 |
 
-3. Run **andruavplugin** from command prompt. You don't need to change any ports. For more options you can run:
+3. Run **mavlinkwebplugin** from command prompt. You don't need to change any ports. For more options you can run:
 
 .. code-block:: bash
 
-    $ andruavplugin -h
+    $ mavlinkwebplugin -h
 
 
     

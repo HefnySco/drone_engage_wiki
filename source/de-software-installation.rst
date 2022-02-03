@@ -21,7 +21,7 @@ Different versions of software can be found `here <https://drive.google.com/driv
 Steps
 =====
 
-Open `Drone-Engage WebSite <https://www.droneengage.com>`_ and select **"Download Binaries"**.
+Open `Drone-Engage WebSite <https://www.droneengage.com>`_ and select **"Download Application"**.
 |
 Download the appropriate binary for your board and version.
 |

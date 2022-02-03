@@ -1,19 +1,18 @@
 .. _de-geo-fencing:
 
 ===================
-Andruav Geo Fencing
+DroneEngage Geo Fencing
 ===================
 
 Geo Fence means that you define areas where you that is safe for your drone to fly in and other areas that is unsafe or forbidden to fly over them.
 
-This is not GEO fence that Ardupilot support. This Geo-Fencing is controlled by Andruav itself not ardupilot. It is very flexible.
+This is not GEO fence that Ardupilot support. This Geo-Fencing is controlled by DroneEngage itself not ardupilot. It is very flexible.
 
-.. youtube:: https://www.youtube.com/watch?v=Vlt3dbQ30W0
-
+.. youtube:: https://www.youtube.com/watch?v=URw6F2fcFS4
 
 |
 
-To access Geo-Fence click `https://andruav.com:8000/mapeditor.html <https://andruav.com:8000/mapeditor.html>`_ .
+To access Geo-Fence click `https://droneengage.com:8021/mapeditor.html <https://droneengage.com:8021/mapeditor.html>`_ .
 
 Geo-Fence Manager allows you to design geo-fences and mission plans for multiple drones at the same time.
 
@@ -21,14 +20,14 @@ Geo-Fence Manager allows you to design geo-fences and mission plans for multiple
 
 |
 
-In the below image you can see *two* mission plans together with geo-fences regions. There is a green Geo-Fence region but inside it a no fly zone in red. ANother no-fly zone exists outside the green area. 
+In the below image you can see *two* mission plans together with geo-fences regions. There is a green Geo-Fence region but inside it a no fly zone in red. Another no-fly zone exists outside the green area. 
 
 .. image:: ./images/_new_map4.png
         :align: center
         :alt: Mission Planner
 
 you can export each mission plan as a file to be uploaded from :ref:`de-web-client`. Geo-Fences on the other side are saves for all the group in the system database.
-Geo-Fences will be active each time Andruav Mobile starts until it is deleted by `Geo-Fence editor <https://andruav.com:8000/mapeditor.html>`_ .
+Geo-Fences will be active each time DroneEngage Mobile starts until it is deleted by `Geo-Fence editor <https://droneengage.com:8021/mapeditor.html>`_ .
 
 
 Rules of Geo-Fence
