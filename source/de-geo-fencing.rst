@@ -14,9 +14,11 @@ This is not GEO fence that Ardupilot support. This Geo-Fencing is controlled by 
 
 To access Geo-Fence click `https://droneengage.com:8021/mapeditor.html <https://droneengage.com:8021/mapeditor.html>`_ .
 
-Geo-Fence Manager allows you to design geo-fences and mission plans for multiple drones at the same time.
+Geo-Fence Manager allows you to design geo-fences and mission plans for multiple drones at the same time. You can even design missions that 
+**interacts** with each others as in the below video. This is **unique**.
 
 
+.. youtube:: https://www.youtube.com/watch?v=YwEw_YSFVEo
 
 |
 
@@ -28,6 +30,8 @@ In the below image you can see *two* mission plans together with geo-fences regi
 
 you can export each mission plan as a file to be uploaded from :ref:`de-web-client`. Geo-Fences on the other side are saves for all the group in the system database.
 Geo-Fences will be active each time DroneEngage Mobile starts until it is deleted by `Geo-Fence editor <https://droneengage.com:8021/mapeditor.html>`_ .
+
+
 
 
 Rules of Geo-Fence

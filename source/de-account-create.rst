@@ -5,8 +5,8 @@
 Create your Drone-Engage Account Key
 ====================================
 
-To get access to Drone-Engage you need to register and get **Access Code** from `Account Manager <http://droneengage.com:8021/accounts.html>`_.
-This is a very straight forward step. You will recieve an **Access Code** on your email that you need to save and use in all your drones.
+To get access to Drone-Engage you need to register and get :term:`Access Code` from `Account Manager <http://droneengage.com:8021/accounts.html>`_.
+This is a very straight forward step. You will recieve an :term:`Access Code` on your email that you need to save and use in all your drones.
 
 
 To validate your new account please login to `Drone-Engage Web Client <https://droneengage.com:8021/webclient.html>`_.
@@ -20,7 +20,7 @@ To validate your new account please login to `Drone-Engage Web Client <https://d
 |
 
 .. warning::
-    Sharing your access code with other persons will allow them to join their devices on your Drone-Engage account. This is useful when you want your friend enter as a GCS and share with you your flight.
+    Sharing your :term:`Access Code` with other persons will allow them to join their devices on your Drone-Engage account. This is useful when you want your friend enter as a GCS and share with you your flight.
 
 
 

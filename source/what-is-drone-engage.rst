@@ -23,7 +23,7 @@ Now you can use Raspberry-pi boards to run Drone-Engage companion computer softw
 
 .. tip::
 
-      Download Drone-Engage binaries from `here <https://drive.google.com/drive/folders/1wMIw5VSW4CdIxMXIFMeq0AyuZBDIfFaH?usp=sharing>`_
+      Download Drone-Engage apps from `here <https://drive.google.com/drive/folders/1wMIw5VSW4CdIxMXIFMeq0AyuZBDIfFaH?usp=sharing>`_
 
 
 

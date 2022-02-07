@@ -11,8 +11,8 @@ Drone Engage FAQ
 #. I Do Not Understand Many Terminologies in This Site.
     Please access :ref:`de-glossary` page.
 
-#. I Cannot Get my Accesscode.
-    Sometimes the access code is filtered out in spam folder. Please check it. 
+#. I Cannot Get my :term:`Access Code`.
+    Sometimes the :term:`Access Code` is filtered out in spam folder. Please check it. 
 
 #. How Many Drones and GCS Can be connected simultanously ?
     Theoretically unlimited. It depends on your network quality and type of data you transfer, it also depends on your Drone GSM-Modem.

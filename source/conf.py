@@ -100,7 +100,9 @@ source_suffix = {
 # The master toctree document.
 master_doc = 'index'
 
-
+# If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
+# using the given strftime format.
+html_last_updated_fmt = '%b, %Y'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 # DO NOT CHANGE. This is used by theme in "Edit on Github" links

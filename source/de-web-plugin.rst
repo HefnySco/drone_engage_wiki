@@ -5,7 +5,7 @@ Mavlink Web Plugin
 ==================
 
 
-Web Plugin streams telemetry data from :ref:`de-web-client` to GCS apps such as Mission Planner, QGround Control or similar GCS applications to your vehicle via Andruav.
+Web Plugin streams telemetry data from :ref:`de-web-client` to GCS apps such as Mission Planner, QGround Control or similar GCS applications to your vehicle via :term:`Andruav`.
 
 You can connect directly from :ref:`de-web-client`. This plugin can run on Windows, MacOS & Linux.
 
